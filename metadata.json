@@ -1,0 +1,5 @@
+{
+  "name": "Mit tattoo Studio",
+  "description": "Studio de tatuagem e piercing na Vila Mariana. Arte, segurança e estilo em um ambiente acolhedor.",
+  "requestFramePermissions": ["geolocation"]
+}
